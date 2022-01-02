@@ -1,5 +1,11 @@
 # @ctx-core/ripple-effect-ui-svelte
 
+## 1.0.12
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 1.0.11
 
 ### Patch Changes
