@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ripple-effect-ui-svelte",
-	"version": "1.0.18",
+	"version": "1.0.19",
 	"description": "ctx-core ripple-effect",
 	"keywords": [
 		"ctx-core",
@@ -19,9 +19,7 @@
 	"type": "module",
 	"types": "./lib/index.d.ts",
 	"exports": {
-		".": {
-			"import": "./lib/index.js"
-		},
+		".": "./lib/index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -35,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/ripple-effect": "^13.1.6",
+		"@ctx-core/ripple-effect": "workspace:^13.1.7",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.57",
