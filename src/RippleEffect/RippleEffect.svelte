@@ -1,4 +1,4 @@
-<script context="module" lang="ts">
+<script context="module">
 import { onclick_ripple_effect } from '@ctx-core/ripple-effect'
 export { onclick_ripple_effect }
 </script>
