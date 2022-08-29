@@ -1,5 +1,11 @@
 # @ctx-core/ripple-effect-ui-svelte
 
+## 1.0.28
+
+### Patch Changes
+
+- tsx: ^3.8.2 -> ^3.9.0
+
 ## 1.0.27
 
 ### Patch Changes
