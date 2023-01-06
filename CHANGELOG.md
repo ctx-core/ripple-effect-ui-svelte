@@ -1,5 +1,11 @@
 # @ctx-core/ripple-effect-ui-svelte
 
+## 1.0.30
+
+### Patch Changes
+
+- tsconfig.json: skipLibCheck: true
+
 ## 1.0.29
 
 ### Patch Changes
