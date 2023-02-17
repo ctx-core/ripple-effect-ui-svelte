@@ -1,6 +1,6 @@
 <script context="module">
-import { onclick_ripple_effect } from '@ctx-core/ripple-effect'
-export { onclick_ripple_effect }
+import { ripple_effect__onclick } from '@ctx-core/ripple-effect'
+export { ripple_effect__onclick }
 </script>
 
 <script lang="ts">
