@@ -1,5 +1,11 @@
 # @ctx-core/ripple-effect-ui-svelte
 
+## 1.1.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 1.1.1
 
 ### Patch Changes
