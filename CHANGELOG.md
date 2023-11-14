@@ -1,5 +1,11 @@
 # @ctx-core/ripple-effect-ui-svelte
 
+## 1.1.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 1.1.2
 
 ### Patch Changes
