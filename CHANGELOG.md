@@ -1,5 +1,11 @@
 # @ctx-core/ripple-effect-ui-svelte
 
+## 1.1.87
+
+### Patch Changes
+
+- @ctx-core/ripple-effect: ^13.3.84 -> ^13.3.85
+
 ## 1.1.86
 
 ### Patch Changes
