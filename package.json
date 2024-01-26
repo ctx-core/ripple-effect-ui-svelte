@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ripple-effect-ui-svelte",
-	"version": "1.1.115",
+	"version": "1.1.116",
 	"description": "ctx-core ripple-effect",
 	"keywords": [
 		"ctx-core",
@@ -42,7 +42,7 @@
 		"svelte": "^4.2.9"
 	},
 	"devDependencies": {
-		"@ctx-core/ripple-effect": "^13.3.113",
+		"@ctx-core/ripple-effect": "^13.3.114",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"c8": "^9.1.0",
