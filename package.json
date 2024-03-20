@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ripple-effect-ui-svelte",
-	"version": "1.1.166",
+	"version": "1.1.167",
 	"description": "ctx-core ripple-effect",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/ripple-effect-ui-svelte.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-ripple-effect-ui-svelte@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -42,7 +46,7 @@
 		"svelte": "^4.2.12"
 	},
 	"devDependencies": {
-		"@ctx-core/ripple-effect": "^13.3.158",
+		"@ctx-core/ripple-effect": "^13.3.159",
 		"@sveltejs/adapter-auto": "^3.1.1",
 		"@sveltejs/kit": "^2.5.4",
 		"c8": "^9.1.0",

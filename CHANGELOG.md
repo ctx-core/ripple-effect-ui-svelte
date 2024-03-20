@@ -1,5 +1,11 @@
 # @ctx-core/ripple-effect-ui-svelte
 
+## 1.1.167
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 1.1.166
 
 ### Patch Changes
