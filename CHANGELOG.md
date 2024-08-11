@@ -1,5 +1,12 @@
 # @ctx-core/ripple-effect-ui-svelte
 
+## 1.1.233
+
+### Patch Changes
+
+- @sveltejs/kit: ^2.5.18 -> ^2.5.21
+- @sveltejs/adapter-auto: ^3.2.2 -> ^3.2.3
+
 ## 1.1.232
 
 ### Patch Changes
