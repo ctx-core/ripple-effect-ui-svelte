@@ -1,5 +1,11 @@
 # @ctx-core/ripple-effect-ui-svelte
 
+## 1.1.239
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 1.1.238
 
 ### Patch Changes
